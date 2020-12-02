@@ -1,0 +1,19 @@
+{
+  "name": "azure-provider-validator",
+  "version": "1.0.0",
+  "description": "An application for validating azure providers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "azure-provider-validator": "src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/arm-resources": "^4.0.0",
+    "@azure/ms-rest-nodeauth": "^3.0.6",
+    "commander": "^6.2.0"
+  }
+}

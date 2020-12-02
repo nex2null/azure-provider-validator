@@ -1,0 +1,13 @@
+{
+  "subscriptions": [
+    {
+      "subscriptionId": "<TODO>",
+      "subscriptionName": "<TODO>",
+      "providers": {
+        "microsoft.insights": true,
+        "microsoft.diagnostics": true,
+        "microsoft.desktopVirtualization": false
+      }
+    }
+  ]
+}
